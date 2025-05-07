@@ -1,4 +1,4 @@
-// File: /home/navgurukul-pune/printer_solution_online/app/page.js
+// File: C:\secondpa\Newhwelett\app\page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
